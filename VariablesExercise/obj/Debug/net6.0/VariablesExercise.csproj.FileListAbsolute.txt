@@ -1,0 +1,5 @@
+C:\Users\Dibar\Documents\repos\csharp33\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.csproj.AssemblyReference.cache
+C:\Users\Dibar\Documents\repos\csharp33\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dibar\Documents\repos\csharp33\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.AssemblyInfoInputs.cache
+C:\Users\Dibar\Documents\repos\csharp33\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.AssemblyInfo.cs
+C:\Users\Dibar\Documents\repos\csharp33\Variables-Exercise\VariablesExercise\obj\Debug\net6.0\VariablesExercise.csproj.CoreCompileInputs.cache
